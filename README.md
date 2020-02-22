@@ -1,2 +1,2 @@
-# materialize-css
+# Materialize CSS
 Learn Materialize CSS
